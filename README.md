@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aghiles Mohamed Tamendjari</h1>
-<h3 align="center">A passionate Computer science student and front end developer from Algeria.</h3>
+<h3 align="center">A passionate Computer science student and front end web developer from Algeria.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aghilestma&label=Profile%20views&color=0e75b6&style=flat" alt="aghilestma" /> </p>
 

@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs for two years now!</p>
+<p align="left">✨ Creating bugs for one year now!</p>
 
 ###
 

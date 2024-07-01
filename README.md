@@ -1,36 +1,38 @@
-<h1 align="center">Hello there!👋</h1>
+<h2 align="left">Hello there!👋</h2>
+
+![Header](./assets/github-header-image.png)
 
 ###
 
-<p align="left">My name is Aghiles Mohamed Tamendjari and I'm a computer science student and a web developer, from Algeria</p>
+<h2 align="left">About me 🤓</h2>
 
 ###
 
-<h2 align="left">About me</h2>
+<div style="display:flex;gap:2rem;width:100%">
+  <ul>
+    <li align="left">
+    My name is Aghiles Mohamed Tamendjari and I'm a computer science student and a web developer.👨‍💻
+    </li>
+    <li align="left">
+    ✨ Creating bugs for two year now
+    !</li>
+  </ul>
+  <img width="150" src="./assets/NUX_Octodex.gif"  />
+</div>
 
 ###
+<hr/>
 
-<div align="center">
-  <img height="200" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47gb0yjpezxzbhigzjse8uqlkxdsc6x4fbrsxfvfl4&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+<div style="display:flex;align-items:start;gap:.5rem;flex-direction:column">
+  <h3>Profile views 👀</h3>
+  <div >
+    <img src="https://profile-counter.glitch.me/AghilesTMA/count.svg?"  />
+  </div>
 </div>
 
 ###
 
-<h3 align="left">Profile views:</h3>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/AghilesTMA/count.svg?"  />
-</div>
-
-###
-
-<p align="left">✨ Creating bugs for one year now!</p>
-
-###
-
-<h2 align="left">Languages and tools:</h2>
+<h2 align="left">My tech stack:</h2>
 
 ###
 
@@ -92,18 +94,17 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AghilesTMA&theme=blueberry&show_icons=true&hide_border=true&count_private=true"  />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AghilesTMA&theme=blueberry&hide_border=true"/>
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AghilesTMA&theme=blueberry&show_icons=true&hide_border=true&layout=compact" />
+<div style="display:flex;gap:.5rem;flex-wrap:wrap;justify-content:center">
+  <img style="max-width:250px" src="https://github-readme-stats.vercel.app/api?username=AghilesTMA&theme=blueberry&show_icons=true&hide_border=true&count_private=true"  />
+  <img style="max-width:250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AghilesTMA&theme=blueberry&show_icons=true&hide_border=true&layout=compact" />
+  <img style="max-width:250px" src="https://github-readme-streak-stats.herokuapp.com/?user=AghilesTMA&theme=blueberry&hide_border=true"/>
 </div>
 
 ###
 
-<h2 align="left">Contact me:</h2>
 
-###
+<h2 align="left">Contact me 💬</h2>
+
 
 <div align="left">
   <a href="https://www.linkedin.com/in/aghiles-tamendjari-950077250/" target="_blank">
@@ -112,3 +113,5 @@
 </div>
 
 ###
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true&quote=To+deal+with+an+unfree+world,+is+to+be+absoluteley+free+that+your+very+existence+is+a+rebillion.)](https://github.com/piyushsuthar/github-readme-quotes)

@@ -17,7 +17,6 @@
     ✨ Creating bugs for two year now
     !</li>
   </ul>
-  <img width="150" src="./assets/NUX_Octodex.gif"  />
 </div>
 
 ###

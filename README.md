@@ -95,9 +95,9 @@
 ###
 
 <div style="display:flex;gap:.5rem;flex-wrap:wrap;justify-content:center">
-  <img style="max-width:250px" src="https://github-readme-stats.vercel.app/api?username=AghilesTMA&theme=blueberry&show_icons=true&hide_border=true&count_private=true"  />
-  <img style="max-width:250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AghilesTMA&theme=blueberry&show_icons=true&hide_border=true&layout=compact" />
-  <img style="max-width:250px" src="https://github-readme-streak-stats.herokuapp.com/?user=AghilesTMA&theme=blueberry&hide_border=true"/>
+  <img width=250 src="https://github-readme-stats.vercel.app/api?username=AghilesTMA&theme=blueberry&show_icons=true&hide_border=true&count_private=true"  />
+  <img width=250 src="https://github-readme-stats.vercel.app/api/top-langs/?username=AghilesTMA&theme=blueberry&show_icons=true&hide_border=true&layout=compact" />
+  <img width=250 src="https://github-readme-streak-stats.herokuapp.com/?user=AghilesTMA&theme=blueberry&hide_border=true"/>
 </div>
 
 ###

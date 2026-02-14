@@ -11,10 +11,10 @@
 <div style="display:flex;gap:2rem;width:100%">
   <ul>
     <li align="left">
-    My name is Aghiles Mohamed Tamendjari and I'm a computer science student and a web developer.👨‍💻
+    My name is Aghiles Tamendjari and I'm a computer science student and a web developer.👨‍💻
     </li>
     <li align="left">
-    ✨ Creating bugs for two year now
+    ✨ Creating bugs for three year now
     !</li>
   </ul>
 </div>
